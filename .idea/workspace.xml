@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f05e2ad6-32e2-4085-bf1c-0ce366c12210" name="Default Changelist" comment="" />
+    <list default="true" id="f05e2ad6-32e2-4085-bf1c-0ce366c12210" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EcommerceWithDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/EcommerceWithDjango/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1f8vaIX0njYPrOctSlSP9ad02Me" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -16,6 +24,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/UniversityFinalProject/Online_Voting_System" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
     <configuration name="EcommerceWithDjango" type="Python.DjangoServer" factoryName="Django server">
@@ -54,6 +69,10 @@
       <option name="presentableId" value="Default" />
       <updated>1595612595905</updated>
       <workItem from="1595612598369" duration="116000" />
+      <workItem from="1595613307211" duration="1099000" />
+      <workItem from="1595648541031" duration="360000" />
+      <workItem from="1595649388879" duration="1506000" />
+      <workItem from="1595656235320" duration="642000" />
     </task>
     <servers />
   </component>
@@ -61,41 +80,45 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="252" key="GridCell.Tab.0.bottom" timestamp="1595612715268">
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1595656612833">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595612715268" />
-    <state width="1493" height="252" key="GridCell.Tab.0.center" timestamp="1595612715268">
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595656612833" />
+    <state width="1493" height="421" key="GridCell.Tab.0.bottom" timestamp="1595656885559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595612715268" />
-    <state width="1493" height="252" key="GridCell.Tab.0.left" timestamp="1595612715268">
+    <state width="1493" height="421" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595656885559" />
+    <state width="1493" height="421" key="GridCell.Tab.0.center" timestamp="1595656885559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595612715268" />
-    <state width="1493" height="252" key="GridCell.Tab.0.right" timestamp="1595612715268">
+    <state width="1493" height="421" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595656885559" />
+    <state width="1493" height="421" key="GridCell.Tab.0.left" timestamp="1595656885559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595612715268" />
-    <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1595612715268">
+    <state width="1493" height="421" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595656885559" />
+    <state width="1493" height="421" key="GridCell.Tab.0.right" timestamp="1595656885559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595612715268" />
-    <state width="1493" height="252" key="GridCell.Tab.1.center" timestamp="1595612715268">
+    <state width="1493" height="421" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595656885559" />
+    <state width="1493" height="421" key="GridCell.Tab.1.bottom" timestamp="1595656885416">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595612715268" />
-    <state width="1493" height="252" key="GridCell.Tab.1.left" timestamp="1595612715268">
+    <state width="1493" height="421" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595656885416" />
+    <state width="1493" height="421" key="GridCell.Tab.1.center" timestamp="1595656885415">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595612715268" />
-    <state width="1493" height="252" key="GridCell.Tab.1.right" timestamp="1595612715268">
+    <state width="1493" height="421" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595656885415" />
+    <state width="1493" height="421" key="GridCell.Tab.1.left" timestamp="1595656885415">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595612715268" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1595612613786">
+    <state width="1493" height="421" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595656885415" />
+    <state width="1493" height="421" key="GridCell.Tab.1.right" timestamp="1595656885415">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595612613786" />
+    <state width="1493" height="421" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595656885415" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1595656235249">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595656235249" />
   </component>
 </project>
