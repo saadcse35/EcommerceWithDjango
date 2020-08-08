@@ -37,18 +37,18 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # apps
-    'back2School_backEnd',
+    'ecommerce_backEnd',
 
     # other framework
     'rest_framework',
 
 ]
 
-REST_FRAMEWORK = {
-    'DEFAULT_RENDERER_CLASSES': (
-        'rest_framework.renderers.JSONRenderer',
-    )
-}
+# REST_FRAMEWORK = {
+#     'DEFAULT_RENDERER_CLASSES': (
+#         'rest_framework.renderers.JSONRenderer',
+#     )
+# }
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
