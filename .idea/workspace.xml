@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f05e2ad6-32e2-4085-bf1c-0ce366c12210" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EcommerceWithDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/EcommerceWithDjango/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EcommerceWithDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/EcommerceWithDjango/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +100,7 @@
       <workItem from="1596807469312" duration="282000" />
       <workItem from="1596815022277" duration="1743000" />
       <workItem from="1596817514694" duration="620000" />
-      <workItem from="1596860285637" duration="236000" />
+      <workItem from="1596860285637" duration="496000" />
     </task>
     <task id="LOCAL-00001" summary="25th July 2020">
       <created>1595656927929</created>
@@ -118,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596806549406</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="07th August 2020">
+      <created>1596860679326</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596860679326</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,10 +139,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="439" y="175" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1596635518227" />
-    <state x="393" y="6" key="CommitChangelistDialog2" timestamp="1596806548000">
+    <state x="393" y="6" key="CommitChangelistDialog2" timestamp="1596860802808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596806548000" />
+    <state x="393" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1596860802808" />
     <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1596807383510">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -183,14 +188,25 @@
     </state>
     <state width="1323" height="363" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596788985022" />
     <state width="1493" height="356" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596860580517" />
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1596806552249">
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1596860685413">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596806552249" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596860685413" />
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1596807375983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="414" y="210" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1596796363529" />
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596807375983" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EcommerceWithDjango/settings.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
